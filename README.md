@@ -9,7 +9,7 @@ This project is an interactive HR Analytics Dashboard built in Power BI. The goa
 ## Dashboard Preview
 
 
-![IBM HR Analytics Dashboard](dashboard.png)
+![IBM HR Analytics Dashboard](Dashboard.png)
 
 ---
 
